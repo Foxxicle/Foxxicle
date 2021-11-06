@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Foxxicle
-- 👀 I’m interested in programming video games, or just small projects.
+- 👀 I’m interested in programming video games, software, or just small projects.
 - 🌱 I’m currently learning Python, Javascript, and HTML
+- 🏫 I'm a college-bound student!
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
