@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Foxxicle
-- 👀 I’m interested in programming video games, software, or just small projects.
-- 🌱 I’m currently learning Python, Javascript, and HTML
-- 🏫 I'm a college-bound student!
-- 💞️ I’m not looking to collaborate on anything at the moment, but I will provide updates when I am! 
+- 👀 I’m interested in software and video game developent.
+- 🌱 I’m currently learning Java.
+- 🏫 I'm currently enrolled in college!
 
 <!---
 Foxxicle/Foxxicle is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
