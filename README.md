@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Foxxicle
-- 👀 I’m interested in software and game developent.
+- 👀 I’m interested in software and game development.
 - 🌱 I’ve familiarized myself with the following programming languages: JavaScript, C#, C++, Python, and Java.
 - 🏫 I'm not currently enrolled in college.
 
